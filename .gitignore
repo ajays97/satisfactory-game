@@ -1,1 +1,6 @@
-"Saved/Logs" 
+Saved/Logs
+Saved/Logs/*
+
+Saved/Logs/FactoryGame.log
+*.log
+**/Logs/**
