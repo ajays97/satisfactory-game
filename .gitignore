@@ -4,3 +4,4 @@ Saved/Logs/*
 Saved/Logs/FactoryGame.log
 *.log
 **/Logs/**
+GUID.ini
